@@ -8,9 +8,9 @@ const employees = [];
 
 inquirer.prompt([
     {
-            name: "managerName",
-            type: "input",
-            message:"What is the manager's name?"
+        name: "managerName",
+        type: "input",
+        message:"What is the manager's name?"
     },
     {
         name: "managerId",
