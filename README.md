@@ -10,3 +10,4 @@ You can use this application to generate a webpage that displays your team's bas
 You will need to run npm init -y in your terminal. Then npm i inquierer in your terminal and npm i jest in your terminal.
 
 ## Link to walkthrough video
+https://drive.google.com/file/d/1nhrpOIxNykYR3V6T0BEe34EnJ2jIDbhB/view
